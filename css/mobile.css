@@ -1,0 +1,18 @@
+body{
+   
+}
+.logo img{
+    width: 60vw;
+}
+
+.searchbar{
+    width: 70vw;
+}
+.item {
+    margin: 0;
+    margin-bottom: 10px;
+    width: 100%;
+}
+.bar {
+    width: 95%;;
+}
