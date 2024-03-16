@@ -170,6 +170,7 @@ body {
     border: 2px solid black;
 }
 .info{
+    z-index: 1111;
     background-color: white;
     text-align: center;
     padding: 8px;
